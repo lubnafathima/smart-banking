@@ -13,7 +13,7 @@ Work Flow:
 - Enter a balance to tarnsfer  
 - Transfer Money  
 
-GITHUB LINK: https://github.com/lubnafathima/smart-banking  
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7007318721169944576/    
 
 The Sparks Foundation
 https://lnkd.in/dkQiEXVM
